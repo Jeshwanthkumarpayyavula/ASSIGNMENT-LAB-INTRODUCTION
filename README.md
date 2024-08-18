@@ -1,4 +1,9 @@
-## Steps:
+## Ds-Assignment1
+
+## AIM:
+To write a python program on data science using pandas and its funtionalities.
+
+## STEPS:
 ```
 1.Install required csv file named as bamk_train.csv
 
@@ -21,3 +26,5 @@
   f. select the rows where unemployed clients who have not subscribed to deposit?
   g. Select columns 'name' and 'salary' where age is less than or equal to 30:
 ```
+## RESULT:
+Thus,the progrsm is executed successfully.
