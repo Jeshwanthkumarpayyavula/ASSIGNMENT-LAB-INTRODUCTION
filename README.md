@@ -27,4 +27,4 @@ To write a python program on data science using pandas and its funtionalities.
   g. Select columns 'name' and 'salary' where age is less than or equal to 30:
 ```
 ## RESULT:
-Thus,the progrsm is executed successfully.
+Thus,the program is executed successfully.
